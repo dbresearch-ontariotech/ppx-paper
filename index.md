@@ -7,7 +7,7 @@ title: "Parsed Page eXplorer (PPX)"
 
 _Levi Willms & Ken Pu — Ontario Tech University (April 2026)_
 
-📄 **[Download the Full PDF Here](./assets/Parsed-Page-eXplorer.pdf)** | 🛠️ **[View LaTeX Source](./src/)** | 💻 **[View PPX Codebase](https://github.com/your-username/ppx-dev)**
+📄 **[Download the Full PDF Here](./assets/Parsed-Page-eXplorer.pdf)** | 🛠️ **[View LaTeX Source](https://github.com/dbresearch-ontariotech/ppx-paper/tree/main/src)** | 💻 **[View PPX Codebase](https://github.com/dbresearch-ontariotech/ppx-dev)**
 
 ---
 
